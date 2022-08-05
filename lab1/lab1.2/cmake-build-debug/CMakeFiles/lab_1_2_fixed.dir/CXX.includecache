@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/labs sem2/lab 1.2 fixed/Polynomial.h
+map
+-
+iostream
+-
+vector
+-
+
+C:/labs sem2/lab 1.2 fixed/main.cpp
+Polynomial.h
+C:/labs sem2/lab 1.2 fixed/Polynomial.h
+cassert
+-
+
+C:/labs sem2/lab 1.2 fixed/polynomial.cpp
+Polynomial.h
+C:/labs sem2/lab 1.2 fixed/Polynomial.h
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/labs sem2/5/CustomAllocator.h
+cstdio
+-
+cassert
+-
+type_traits
+-
+utility
+-
+vector
+-
+map
+-
+iostream
+-
+memory
+-
+algorithm
+-
+
+C:/labs sem2/5/main.cpp
+iostream
+-
+memory
+-
+vector
+-
+queue
+-
+CustomAllocator.h
+C:/labs sem2/5/CustomAllocator.h
+ctime
+-
+

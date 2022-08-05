@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/labs sem2/lab 4/ICube.cpp
+ICube.h
+C:/labs sem2/lab 4/ICube.h
+
+C:/labs sem2/lab 4/ICube.h
+RubiksCube.h
+C:/labs sem2/lab 4/RubiksCube.h
+
+C:/labs sem2/lab 4/RubiksCube.cpp
+RubiksCube.h
+C:/labs sem2/lab 4/RubiksCube.h
+
+C:/labs sem2/lab 4/RubiksCube.h
+iostream
+-
+windows.h
+-
+fstream
+-
+vector
+-
+ctime
+-
+ICube.h
+C:/labs sem2/lab 4/ICube.h
+
+C:/labs sem2/lab 4/main.cpp
+RubiksCube.h
+C:/labs sem2/lab 4/RubiksCube.h
+

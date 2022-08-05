@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/labs sem2/3.2/Algorithms.h
+vector
+-
+
+C:/labs sem2/3.2/main.cpp
+iostream
+-
+Algorithms.h
+C:/labs sem2/3.2/Algorithms.h
+vector
+-
+set
+-
+cassert
+-
+

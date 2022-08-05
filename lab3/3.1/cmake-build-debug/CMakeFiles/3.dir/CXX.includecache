@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/labs sem2/3/CircularBuffer.h
+cstddef
+-
+iostream
+-
+Iterator.h
+C:/labs sem2/3/Iterator.h
+
+C:/labs sem2/3/Iterator.h
+iterator
+-
+initializer_list
+-
+
+C:/labs sem2/3/main.cpp
+CircularBuffer.h
+C:/labs sem2/3/CircularBuffer.h
+cassert
+-
+sstream
+-
+algorithm
+-
+vector
+-
+list
+-
+
